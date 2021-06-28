@@ -1,1 +1,6 @@
-rootProject.name = 'store'
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        mavenCentral()
+    }
+}
